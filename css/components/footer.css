@@ -1,0 +1,4 @@
+/* Footer Component - Imports all footer-related styles */
+@import url('./footer/cta-banner.css');
+@import url('./footer/cta-form.css');
+@import url('./footer/copyright.css');

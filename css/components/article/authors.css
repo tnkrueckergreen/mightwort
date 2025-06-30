@@ -1,0 +1,3 @@
+/* Imports author-related styles */
+@import url('./authors/bio.css');
+@import url('./authors/avatar.css');

@@ -1,0 +1,4 @@
+/* Single Article - Imports layout styles */
+@import url('./single/layout.css');
+@import url('./single/header.css');
+@import url('./single/image.css');
